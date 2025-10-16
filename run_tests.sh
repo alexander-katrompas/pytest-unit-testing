@@ -21,4 +21,4 @@ pytest -v \
     test_bank_account_mocked.py
 
 echo "======================================="
-echo "✅ All test
+echo "✅ All test"
