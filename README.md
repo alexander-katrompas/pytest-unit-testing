@@ -7,6 +7,7 @@ functions and classes.
 ### Prerequisites
 - Python 3.x
 - pytest library (install via pip: `pip install pytest`)
+- pytest-mock (install via pip: `pip install pytest-mock`)
 
 ### pytest Features
 - Simple and easy-to-read syntax
